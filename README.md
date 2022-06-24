@@ -2,7 +2,7 @@
 
 ###
 
-<img style = "margin-top: 40px;" align="right" width = "250" hight="200" src="https://c.tenor.com/9bS9H49km-cAAAAC/future-eren.gif"  />
+<img style = "margin-top: 40px;" align="right" width = "width" hight="200" src="https://c.tenor.com/9bS9H49km-cAAAAC/future-eren.gif"  />
 
 ###
 
