@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="200" src="https://c.tenor.com/9bS9H49km-cAAAAC/future-eren.gif"  />
+<img style = "margin-top: 40px;" align="right" width = "width" hight="200" src="https://c.tenor.com/9bS9H49km-cAAAAC/future-eren.gif"  />
 
 ###
 
@@ -40,7 +40,3 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
-
-###
-
-<img href="https://raw.githubusercontent.com/zDarkOrdening/zDarkOrdening/blob/output/snake.svg" alt="Snake animation" />
