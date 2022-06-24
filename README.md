@@ -6,7 +6,25 @@
 
 ###
 
-<p align="left">```javascript<br>const getCurrentWorkplace = () => {<br>  return 'Borghetti Logística'<br>}<br>const getInformationAboutMe = () => {<br>  return { <br>    age: 18,<br>    college: 'Computer Science'<br>  }<br>}<br>const getFutureGoals = () => {<br>  return 'Improve my Front-End Skills'<br>}<br>module.exports = {<br>  getCurrentWorkplace,<br>  getInformationAboutMe,<br>  getFutureGoals<br>}<br>```</p>
+```javascript
+const getCurrentWorkplace = () => {
+  return 'Borghetti Logística'
+}
+const getInformationAboutMe = () => {
+  return { 
+    age: 18,
+    college: 'Computer Science'
+  }
+}
+const getFutureGoals = () => {
+  return 'Improve my Front-End Skills'
+}
+module.exports = {
+  getCurrentWorkplace,
+  getInformationAboutMe,
+  getFutureGoals
+}
+```
 
 ###
 
