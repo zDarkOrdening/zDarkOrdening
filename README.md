@@ -44,6 +44,3 @@
 ###
 
 <img href="https://raw.githubusercontent.com/zDarkOrdening/zDarkOrdening/blob/output/snake.svg" alt="Snake animation" />
-
-###
-Profile Readme Generator
