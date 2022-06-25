@@ -1,10 +1,10 @@
-<h1 align="left">Hello!👋</h1>
-<h2> My name is Leonardo. I'm a Front-End Developer and Computer Science Student. </h2>
+<h1 align="left">Hello!👋<br>My name is Leonardo. I'm a Front-End Developer and Computer Science Student.</h1>
+
 
 ###
 
 <div>
-  <img style = "margin-top: 45px;" margin-left="5px" align="right" width="width" hight="200px" border-radius="5px" src="https://bluestars.com.br/wp-content/uploads/2020/05/11.png"  />
+  <img style = "margin-top: 45px;" margin-left="5px" align="right" width="width" hight="200px" border-radius="5px" src="https://c.tenor.com/9bS9H49km-cAAAAC/future-eren.gif"  />
 <div>
 
   ```javascript
