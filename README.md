@@ -2,9 +2,9 @@
 
 ###
 
-<img style = "margin-top: 40px;" align="right" width = "400" hight="200" src="https://c.tenor.com/9bS9H49km-cAAAAC/future-eren.gif"  />
-
-###
+<div>
+  <img style = "margin-top: 45px;" align="right" width="400" hight="200" padding="10" src="https://c.tenor.com/9bS9H49km-cAAAAC/future-eren.gif"  />
+<div>
 
 ```javascript
 const getCurrentWorkplace = () => {
