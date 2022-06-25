@@ -1,5 +1,4 @@
-<h1 align="left">Hello!👋</h1>
-<h2> My name is Leonardo. I'm a Front-End Developer and Computer Science Student. </h2>
+<h1 align="left">Hello!👋</h1><br><h2> My name is Leonardo. I'm a Front-End Developer and Computer Science Student. </h2>
 
 ###
 
@@ -7,25 +6,27 @@
   <img style = "margin-top: 45px;" align="right" width="300" hight="200" padding="10" src="https://c.tenor.com/9bS9H49km-cAAAAC/future-eren.gif"  />
 <div>
 
-```javascript
-const getCurrentWorkplace = () => {
-  return 'Borghetti Logística'
-}
-const getInformationAboutMe = () => {
-  return { 
-    age: 18,
-    college: 'Computer Science'
+<div style = "width: 350">
+  ```javascript
+  const getCurrentWorkplace = () => {
+    return 'Borghetti Logística'
   }
-}
-const getFutureGoals = () => {
-  return 'Improve my Front-End Skills'
-}
-module.exports = {
-  getCurrentWorkplace,
-  getInformationAboutMe,
-  getFutureGoals
-}
-```
+  const getInformationAboutMe = () => {
+    return { 
+      age: 18,
+      college: 'Computer Science'
+    }
+  }
+  const getFutureGoals = () => {
+    return 'Improve my Front-End Skills'
+  }
+  module.exports = {
+    getCurrentWorkplace,
+    getInformationAboutMe,
+    getFutureGoals
+  }
+  ```
+</div>
 
 ## My statistics
 
@@ -50,7 +51,7 @@ module.exports = {
 
 <div align="center">
   <a href="https://discordapp.com/users/zDarkOrdening#4196" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" target="_blank"/>
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="https://www.linkedin.com/in/dev-leonardo-lima/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
