@@ -3,10 +3,9 @@
 ###
 
 <div>
-  <img style = "margin-top: 45px;" align="right" width="300" hight="200" padding="10" src="https://c.tenor.com/9bS9H49km-cAAAAC/future-eren.gif"  />
+  <img style = "margin-top: 45px;" margin-left="5px" align="right" width="300px" hight="200px" border-radius="5px" src="https://c.tenor.com/9bS9H49km-cAAAAC/future-eren.gif"  />
 <div>
 
-<div style = "width: 350">
   ```javascript
   const getCurrentWorkplace = () => {
     return 'Borghetti Logística'
@@ -26,7 +25,6 @@
     getFutureGoals
   }
   ```
-</div>
 
 ## My statistics
 
