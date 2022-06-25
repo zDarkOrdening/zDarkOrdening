@@ -4,7 +4,7 @@
 ###
 
 <div>
-  <img style = "margin-top: 45px;" margin-left="5px" align="right" width="width" hight="200px" border-radius="5px" src="https://c.tenor.com/9bS9H49km-cAAAAC/future-eren.gif"  />
+  <img style = "margin-top: 45px;" margin-left="5px" align="right" width="width" hight="200px" border-radius="5px" src="./img/eren-gif.gif"  />
 <div>
 
   ```javascript
@@ -27,14 +27,14 @@
   }
   ```
 
-## My statistics
+## My statistics 📊
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=zDarkOrdening" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=zDarkOrdening" height="150" alt="languages graph"  />
 </div>
 
-## My Skills
+## My Skills ⚙️
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
@@ -46,7 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
 </div>
 
-## Talk to me
+## You can find me at 🔍
 
 <div align="center">
   <a href="https://discordapp.com/users/zDarkOrdening#4196" target="_blank">
