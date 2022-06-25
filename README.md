@@ -1,9 +1,10 @@
-<h2 align="left">Hello👋! My name is Leonardo. I'm a Front-End Developer and Computer Science Student.</h2>
+<h1 align="left">Hello!👋</h1>
+<h2> My name is Leonardo. I'm a Front-End Developer and Computer Science Student. </h2>
 
 ###
 
 <div>
-  <img style = "margin-top: 45px;" align="right" width="400" hight="200" padding="10" src="https://c.tenor.com/9bS9H49km-cAAAAC/future-eren.gif"  />
+  <img style = "margin-top: 45px;" align="right" width="300" hight="200" padding="10" src="https://c.tenor.com/9bS9H49km-cAAAAC/future-eren.gif"  />
 <div>
 
 ```javascript
@@ -35,7 +36,7 @@ module.exports = {
 
 ## My Skills
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
@@ -47,9 +48,9 @@ module.exports = {
 
 ## Talk to me
 
-<div align="left">
+<div align="center">
   <a href="https://discordapp.com/users/zDarkOrdening#4196" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" target="_blank"/>
   </a>
   <a href="https://www.linkedin.com/in/dev-leonardo-lima/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
