@@ -4,7 +4,7 @@
 ###
 
 <div>
-  <img style = "margin-top: 45px;" margin-left="5px" align="right" width="width" height="350px" src="./img/eren-gif.gif"  />
+  <img style = "margin-top: 45px;" margin-left="5px" align="right" width="400px" height="350px" src="./img/eren-gif.gif"  />
 <div>
 
   ```javascript
