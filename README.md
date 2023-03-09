@@ -9,7 +9,7 @@
 
   ```javascript
   const getCurrentWorkplace = () => {
-    return 'Borghetti Logística'
+    return ' '
   }
   const getInformationAboutMe = () => {
     return { 
@@ -18,7 +18,7 @@
     }
   }
   const getFutureGoals = () => {
-    return 'Improve my Front-End Skills'
+    return 'Improve my programming skills'
   }
   module.exports = {
     getCurrentWorkplace,
