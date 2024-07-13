@@ -1,36 +1,67 @@
-<h1 align="center">Hi there! 👋 I'm Leonardo Lima</h1>
-<h3 align="center">Software Developer</h3>
+<h1 align="center">👋 Hi there! I'm Leonardo Lima. </h1>
+<h3 align="center">Software Developer (Back-End Focused)</h3>
 
-- 🌱 Currently learning **Node.js | Computer Science**
-
-- 📫 You can reach me at **contato.leonardolima@outlook.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/dev-leonardo-lima" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev-leonardo-lima" height="30" width="40" />
-  </a>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjA4MzMwMTYsIm5iZiI6MTcyMDgzMjcxNiwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA3MTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNzEzVDAxMDUxNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWVlZjMxYzBkMTdlNGUwYjczOGU1ZjA4NWUyOWE1Y2Q2NDY1NzAyODg5ZmVjMmM2YzBkOTg0MWQwYWJkYTlmOWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Mkxfnruis1-PqxwU2o-gdEZwcETEseBifNXdc9AgVsk" alt="coding animation" width="600"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+<ul align="left">
+  <li>🎓 Studying <strong>Computer Science</strong></li>
+  <li>🌱 Currently learning <strong>Node.js</strong> to become a specialist</li>
+  <li>📫 You can reach me at <strong>contato.leonardolima@outlook.com</strong></li>
+  <li>💼 Connect with me on <strong><a href="https://www.linkedin.com/in/dev-leonardo-lima/">LinkedIn</a></strong></li>
+</ul>
+
+##
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="56" height="56"/>
+  <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="56" height="56"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="56" height="56"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="56" height="56"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="56" height="56"/>
+  <br>
+  <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="56" height="56"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="56" height="56"/>
+  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="56" height="56"/>
+  <img src="https://skillicons.dev/icons?i=express" alt="Express" width="56" height="56"/>
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="56" height="56"/>
+  <br>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="56" height="56"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="56" height="56"/>
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="56" height="56"/>
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="56" height="56"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="56" height="56"/>
+  <br>
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="56" height="56"/>
+  <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="56" height="56"/>
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="56" height="56"/>
+  <img src="https://skillicons.dev/icons?i=c" alt="C" width="56" height="56"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="56" height="56"/>
+  <br>
+  <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="56" height="56"/>
+  <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" width="56" height="56"/>
+  <img src="https://skillicons.dev/icons?i=jest" alt="Jest" width="56" height="56"/>
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="56" height="56"/>
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" width="56" height="56"/>
+
 </p>
+
+##
+
+<h3 align="center">Professional Experience:</h3>
+
+[<img align="left" height="94px" width="94px" alt="Alest" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN9iGhD6F-34TbUGWcZIk4cOKWBYdM_NghoAI4t3pYww&s"/>](https://alest.com.br/)
+**Software Developer** \
+[**Alest**](https://alest.com.br/) • 1 year and 4 months
+<br>
+<br>
+<br>
+##
+
+<h3 align="center">Academic Education:</h3>
+
+[<img align="left" height="94px" width="94px" alt="UNIP" src="https://play-lh.googleusercontent.com/VzUfEzZ2q-y6lWl9liKGTxg7d6Ym5i7yYaHNHZogN8VDrx0RJJ6055mRVUzNMqT7ci9v"/>](https://unip.br/)
+**Computer Science** \
+[**UNIP**](https://unip.br/) • 6th Semester
